@@ -8,7 +8,7 @@ Get your virtual number for free
   <style>
     body{
       margin:0;font-family:system-ui,Arial;background:#0b0f14;color:#e6e9ef;
-      background-image:url('YOUR_IMAGE_HERE.jpg'); /* replace with your photo */
+      background-image:url('YOUR_IMAGE_HERbackground-image:url('YOUR_IMAGE_HERE.jpg');E.jpg'); /* replace with your photo */
       background-size:cover;background-position:center;background-attachment:fixed;
     }
     .overlay{background:rgba(11,15,20,.85);min-height:100vh}
@@ -67,7 +67,7 @@ Get your virtual number for free
       <option>Instagram</option>
       <option>Gmail</option>
     </select>
-    <button onclick="fakeOtp()">Get OTP</button>
+    <button onclick="Otp()">Get OTP</button>
     <div id="load" class="hidden"><div class="spinner"></div></div>
     <input id="otp" class="hidden" placeholder="Enter OTP" />
     <button id="verify" class="hidden" onclick="verify()">Verify</button>
