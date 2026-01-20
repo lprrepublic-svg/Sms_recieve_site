@@ -37,7 +37,7 @@ Get your virtual number for free
     <input placeholder="Name" />
     <input placeholder="Email" />
     <button onclick="go(2)">Create account</button>
-    <footer>Educational demo • No real OTPs</footer>
+    <footer>create real account • real OTPs</footer>
   </div>  <div class="card hidden" id="step2">
     <h1>Select country</h1>
     <div>
