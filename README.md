@@ -8,7 +8,7 @@ Get your virtual number for free
   <style>
     body{
       margin:0;font-family:system-ui,Arial;background:#0b0f14;color:#e6e9ef;
-      background-image:url('YOUR_IMAGE_HERbackground-image:url('YOUR_IMAGE_HERE.jpg');E.jpg'); /* replace with your photo */
+      background-image:url('https://photos.app.goo.gl/YZMVsnKCj9Bs9rcXAbackground-image:url('https://photos.app.goo.gl/YZMVsnKCj9Bs9rcXA.jpg');E.jpg'); /* replace with your photo */
       background-size:cover;background-position:center;background-attachment:fixed;
     }
     .overlay{background:rgba(11,15,20,.85);min-height:100vh}
